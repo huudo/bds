@@ -21,9 +21,10 @@
           
           <ul id="myTab" class="nav navbar-nav" style="display: inline-block;">
             <li class="active"><a href="#all" data-toggle="tab">Tất cả</a></li>
-            <li class=""><a href="#tk_noi_that" data-toggle="tab">Thiết kế nội thất</a></li>
-            <li class=""><a href="#tk_noi_that" data-toggle="tab">Thi công nội thất</a></li>
-            <li class=""><a href="#tk_noi_that" data-toggle="tab">Thiết kế kiến trúc</a></li> 
+            <li class=""><a href="#tk_noi_that" data-toggle="tab">Nhà lô</a></li>
+            <li class=""><a href="#tk_noi_that" data-toggle="tab">Chung cư</a></li>
+            <li class=""><a href="#tk_noi_that" data-toggle="tab">Biệt thự</a></li> 
+            <li class=""><a href="#khac" data-toggle="tab">Khác</a></li> 
           </ul>
           
       </nav>

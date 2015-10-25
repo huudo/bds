@@ -114,11 +114,11 @@
                     <div class="primary-menu">
                        <ul id="primary-menu" class="menu">
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a
-                                    href="tin_tuc">Trang chủ</a>
+                                    href="trang_chu">Trang chủ</a>
 
                             </li>
                              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a
-                                    href="tin_tuc">Giới thiệu</a>
+                                    href="">Giới thiệu</a>
 
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90">
